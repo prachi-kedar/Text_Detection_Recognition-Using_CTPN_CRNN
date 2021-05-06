@@ -19,6 +19,8 @@ This can be done by writing simple script to crop an image.
 
 ### ROI
 Crop an image using img_crop.ipynb
+
+
 ![Image](test_images/CustNID_19065440026.jpg)
 
 
